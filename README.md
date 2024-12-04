@@ -11,8 +11,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/souvik-saha-03259b251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-saha-03259b251/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/souvik21102001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/souvik21102001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/souvik_saha_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/souvik_saha_/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/souvik21102001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/souvik21102001/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/SOUVIK_SAHA_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/souvik_saha_/" height="30" width="40" /></a>
+<a href="ps://www.geeksforgeeks.org/user/souvik21102001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/souvik21102001/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
