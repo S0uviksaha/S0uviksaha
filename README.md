@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm Souvik Saha, a Full Stack Developer</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Souvik Saha</h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0uviksaha&label=Profile%20views&color=0e75b6&style=flat" alt="s0uviksaha" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s0uviksaha&label=Profile%20views&color=0e75b6&style=flat" alt="s0uviksaha" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s0uviksaha" alt="s0uviksaha" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Backend Web Development**
+### 🚀 About Me
+
+- 🔭 I’m currently working on **MERN Stack Projects**
+- 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)**
+- 💬 Ask me about **JavaScript, React, Node.js, APIs**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: **souvik21102001@gmail.com**
+- ⚡ Fun fact: I believe **consistency > perfection**
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/souvik-saha-03259b251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-saha-03259b251/" height="30" width="40" /></a>
