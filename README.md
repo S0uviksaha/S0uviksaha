@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Saha</h1>
 <h3 align="center">A Passionate Full Stack Developer & AI/ML Enthusiast from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s0uviksaha&label=Profile%20views&color=0e75b6&style=flat" alt="s0uviksaha" />
-</p>
-
 <h4 align="center">🚀 Actively seeking Full Stack or AI/ML Developer roles · Open to exciting job opportunities!</h4>
 
 
