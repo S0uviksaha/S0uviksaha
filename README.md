@@ -9,12 +9,19 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)**
-- 💬 Ask me about **JavaScript, React, Node.js, APIs**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **souvik21102001@gmail.com**
-- ⚡ Fun fact: I believe **consistency > perfection**
+🔭 I’m currently working on Full Stack Projects
+
+🌱 I’ve completed MERN Stack Development and currently learning AI/ML
+
+💬 Ask me about JavaScript, React, Node.js, APIs, and MongoDB
+
+👯 I’m looking to collaborate on Open Source and AI/ML Projects
+
+📫 How to reach me: souvik21102001@gmail.com
+
+⚡ Fun fact: I believe consistency > perfection, always!
+
+🔍 Currently sharpening my skills in DSA
 
 ---
 
