@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souvik Saha</h1>
 <h3 align="center">A Passionate Full Stack Developer & AI/ML Enthusiast from India 🇮🇳</h3>
-<h4 align="center">🚀 Actively seeking Full Stack or AI/ML Developer roles · Open to exciting job opportunities!</h4>
+<h4 align="center">🚀 Actively seeking Full Stack or SDE roles · Open to exciting job opportunities!</h4>
 
 
 <p align="center">
