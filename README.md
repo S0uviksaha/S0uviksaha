@@ -147,6 +147,8 @@
 
 #### 📊 Development Focus Areas
 
+<p align="center">
+
 ```text
 🧠 AI/ML & Data Science       ██████████████░░░░  70%
 🌐 MERN Stack Projects        ████████░░░░░░░░░░  40%
@@ -154,9 +156,11 @@
 📊 Data Analytics Projects    ████░░░░░░░░░░░░░░  20%
 ```
 
+</p>
+
 #### 🔥 This Week's Highlights
 
-<table align="center">
+<table align="center" style="margin: 0 auto;">
 <tr>
 <td align="center">🎯 <b>Completed</b></td>
 <td align="center">🚀 <b>Built</b></td>
@@ -172,29 +176,6 @@
 <tr>
 <td align="center">Pandas data preprocessing</td>
 <td align="center">Solved 6 DSA problems</td>
-</tr>
-</table>
-
-</div>
-  
-### 🔥 Streak Stats & Achievements
-  
-<table>
-<tr>
-<td align="center"><strong>🎯 Current Streak</strong></td>
-<td align="center"><strong>📈 Total Contributions</strong></td>
-<td align="center"><strong>⭐ Total Stars</strong></td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Days&query=current_streak.length&url=https://github-readme-streak-stats.herokuapp.com/?user=s0uviksaha&format=json&color=vue&style=for-the-badge&logo=fire" alt="Current Streak"/>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total&query=total_contributions&url=https://github-api.vercel.app/api/user/s0uviksaha&color=vue&style=for-the-badge&logo=github" alt="Total Contributions"/>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/github/stars/s0uviksaha?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=star&color=vue" alt="Total Stars"/>
-</td>
 </tr>
 </table>
 
